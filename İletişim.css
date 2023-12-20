@@ -1,0 +1,30 @@
+body {
+    background-image: url(/images/Gojo11.jpg);
+}
+
+.center .avatar img {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-top: 10%;
+    margin-left: 0%;
+    transition: 1s;
+    filter: grayscale(0%);
+    border: 5px solid rgb(28, 28, 29);
+    box-shadow: 0 0 60px #000000;
+}
+
+.center {
+    width: top;
+    height: top;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    color: #212121;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 150px;
+    margin-top: 50px;
+}
